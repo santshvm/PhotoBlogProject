@@ -1,1 +1,1 @@
-A website portfolio template for photographers to showcase their work. 
+A fully responsive website portfolio template for photographers to showcase their work. 
